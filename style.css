@@ -1,0 +1,28 @@
+/*Color code
+
+ #8987DF Purple
+ #D0F7FF
+ #E4EBFD
+ #FBFCFC
+ #8269D8
+ */
+.banner{
+	padding-top: 10px;
+	display: flex;
+	margin-left: auto;
+    margin-right: auto;
+	width: 20%;
+}
+.intro{
+	text-align: center;
+}
+p{
+	color: #8987DF ;
+	padding-top: 10px;
+	font-size: 1.375rem;
+}
+.aboutTitle{
+	color: #8987DF ;
+	padding-top: 10px;
+	font-size: 10rem;
+}
